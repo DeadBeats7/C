@@ -42,5 +42,8 @@
     <ClCompile Include="변수에 저장한 데이터 변경.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="변수의 시작 주소와 연산자.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
