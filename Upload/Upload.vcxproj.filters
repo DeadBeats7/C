@@ -63,5 +63,8 @@
     <ClCompile Include="심볼릭 상수 define.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="대입 연산자.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
