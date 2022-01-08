@@ -45,5 +45,17 @@
     <ClCompile Include="변수의 시작 주소와 연산자.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="정수형 상수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실수형 상수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자 상수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 상수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
