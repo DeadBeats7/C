@@ -4,5 +4,11 @@ int main(void)
 	int i = 0, j = 0, k = 0;
 	printf("i = %d, j = %d, k = %d \n", i, j, k);
 
+	i = 2;
+	j = 4;
+	k = 6;
 
+	printf("i = %d, j = %d, k = %d \n", i, j, k);
+
+	return 0;
 }
