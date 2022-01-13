@@ -102,5 +102,17 @@
     <ClCompile Include="for문.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="for문 추가 예시.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="for 무한 반복문.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="중첩 for문.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="if문.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
